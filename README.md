@@ -91,4 +91,3 @@ Here are some ideas to get you started:
 [![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
 -----
-Credits: [durgeshsamariya](https://github.com/durgeshsamariya)
