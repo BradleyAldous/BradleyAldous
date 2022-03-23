@@ -76,8 +76,8 @@ I am an MSc student at [Queen Mary University of London](https://www.qmul.ac.uk)
 -->
 ----
 
-[![Durgesh's github stats](https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Brad's github stats](https://github-readme-stats.vercel.app/api?username=bradleyaldous&theme=algolia&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Brad's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bradleyaldous&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
 -----
