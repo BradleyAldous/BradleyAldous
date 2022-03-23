@@ -6,16 +6,15 @@ I am an MSc student at [Queen Mary University of London](https://www.qmul.ac.uk)
 - 💻 Currently working on PyML, a python toolkit for building some of machine learning models and state-of-the-art algorithms without using any libraries. The aim of this project is to learn machine learning algorithms from scratch.
 - 👨🏽‍💻 Currently growing my skillset in [Machine Learning](https://github.com/themlphdstudent/100DaysofMachineLearning) and [Data Science](https://github.com/themlphdstudent/100DaysofDataScience).
 
-**My Reseach Interest**:
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+**My Reseach Interests**:
+- Deep Learning
+- Neural Networks
+- Automatic Audio Mixing
 
  **I am open to**:
 
 - any collobration work,
-- machine learning projects(development or research),
+- machine learning projects (development or research),
 - research internships and
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
