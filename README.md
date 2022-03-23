@@ -1,4 +1,4 @@
-### Hi there, I'm [Brad](https://durgeshsamariya.github.io) 👋
+### Hi there, I'm [Brad](https://bradleyaldous.github.io) 👋
 
 I am an MSc student at [Queen Mary University of London](https://www.qmul.ac.uk), United Kingdom, studying Data Science and Artificial Intelligence, having previously studied for an MSci in Astrophysics. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
