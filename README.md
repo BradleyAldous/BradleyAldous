@@ -1,6 +1,6 @@
 ### Hi there, I'm [Brad](https://bradleyaldous.github.io) 👋
 
-I am an MSc student at [Queen Mary University of London](https://www.qmul.ac.uk), United Kingdom, studying Data Science and Artificial Intelligence, having previously studied for an MSci in Astrophysics. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+I am an MSc student at [Queen Mary University of London](https://www.qmul.ac.uk), United Kingdom, studying Data Science and Artificial Intelligence, having previously studied for an MSci in Astrophysics. Apart from that I have a big passion for music and music production (check out my Spotify: https://open.spotify.com/artist/0xx8ekhHWOOe1cinuFYU5Z?si=h3mGpUZ9SjeiJ6Vj6d8MBw), and I'm very interested in the intersection of AI and music.
 
 
 - 💻 Currently working on a modified Wave-U-Net architecture for application to the automatic mixing of multitrack audio in music production.
