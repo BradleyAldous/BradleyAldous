@@ -5,15 +5,15 @@ I am an MSc student at [Queen Mary University of London](https://www.qmul.ac.uk)
 
 - 💻 Currently working on a modified Wave-U-Net architecture for application to the automatic mixing of multitrack audio in music production.
 
-**My Reseach Interests**:
+**My Research Interests**:
 - Deep Learning
 - Neural Networks
 - AI and Music
 
  **I am open to**:
 
-- Any collobration work,
-- Machine learning projects (development or research), and
+- Collaboration work
+- Machine learning projects (development or research)
 - Research internships
 
 ## What I am Reading:
